@@ -1,2 +1,2 @@
-# coursera-test
-Using this for creating coursera-assingments
+Did changes after the reviews came in.
+Fixed Colors, added Different font-size as stated and fixed the media queries.
